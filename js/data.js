@@ -72,5 +72,5 @@ const PERFUMES = [
   { id: 60, nombre: "Dazzle", marca: "Paris Hilton", genero: "mujer", momento: "dia", notas: ["Floral", "Frutal"] , imagen: "dazzle-parishilton.png", ml: "Eau de Parfum · 125 ml" },
   { id: 61, nombre: "Bright Crystal Absolu", marca: "Versace", genero: "mujer", momento: "dia", notas: ["Floral", "Frutal"] , imagen: "bright-crystal-absolu-versace.png", ml: "" },
   { id: 62, nombre: "Thank U, Next", marca: "Ariana Grande", genero: "mujer", momento: "dia", notas: ["Frutal", "Gourmand"] , imagen: "tyn-ariana-grande.png", ml: "100ml" },
-  { id: 63, nombre: "La Belle Paradise Garden", marca: "Jean Paul Gaultier", genero: "mujer", momento: "dia", notas: ["Floral", "Tropical"], imagen: "", ml: "" },
+  { id: 63, nombre: "La Belle Paradise Garden", marca: "Jean Paul Gaultier", genero: "mujer", momento: "dia", notas: ["Floral", "Tropical"], imagen: "le-belle-paradise-garden.png", ml: "" },
 ];
