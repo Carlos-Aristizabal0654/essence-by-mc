@@ -70,7 +70,7 @@ const PERFUMES = [
   { id: 58, nombre: "Blue Label", marca: "Givenchy", genero: "hombre", momento: "dia", notas: ["Aromático", "Amaderado"] , imagen: "", ml: "Eau de Toilette · 100 ml" },
   { id: 59, nombre: "Good Girl Fantastic Pink", marca: "Carolina Herrera", genero: "mujer", momento: "noche", notas: ["Gourmand", "Frutal"] , imagen: "", ml: "" },
   { id: 60, nombre: "Dazzle", marca: "Paris Hilton", genero: "mujer", momento: "dia", notas: ["Floral", "Frutal"] , imagen: "", ml: "Eau de Parfum · 125 ml" },
-  { id: 61, nombre: "Bright Crystal Absolu", marca: "Versace", genero: "mujer", momento: "dia", notas: ["Floral", "Frutal"] , imagen: bright-crystal-absolu-versace.jpg, ml: "" },
-  { id: 62, nombre: "Thank U, Next", marca: "Ariana Grande", genero: "mujer", momento: "dia", notas: ["Frutal", "Gourmand"] , imagen: tyn-ariana-grande.jpg, ml: "100" },
+  { id: 61, nombre: "Bright Crystal Absolu", marca: "Versace", genero: "mujer", momento: "dia", notas: ["Floral", "Frutal"] , imagen: "bright-crystal-absolu-versace.jpg", ml: "" },
+  { id: 62, nombre: "Thank U, Next", marca: "Ariana Grande", genero: "mujer", momento: "dia", notas: ["Frutal", "Gourmand"] , imagen: "tyn-ariana-grande.jpg", ml: "100ml" },
   { id: 63, nombre: "La Belle Paradise Garden", marca: "Jean Paul Gaultier", genero: "mujer", momento: "dia", notas: ["Floral", "Tropical"], imagen: "", ml: "" },
 ];
