@@ -120,7 +120,7 @@
     if (p.imagen && p.imagen.trim() !== "") {
       return `
         <div class="card-img">
-          <img src="${escapeHTML(p.imagen)}" alt="${escapeHTML(p.nombre)} — ${escapeHTML(p.marca)}" loading="lazy">
+          <img src="img/${escapeHTML(p.imagen)}" alt="${escapeHTML(p.nombre)} — ${escapeHTML(p.marca)}" loading="lazy">
         </div>
       `;
     }
