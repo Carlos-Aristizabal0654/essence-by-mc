@@ -14,7 +14,7 @@ const PERFUMES = [
   { id: 2,  nombre: "Good Girl", marca: "Carolina Herrera", genero: "mujer", momento: "noche", notas: ["Amaderado", "Dulce", "Almendra"], destacado: true , imagen: "carolina-herrera-good-girl-eau-de-parfum.png", ml: "Eau de Parfum · 80 ml" },
   { id: 3,  nombre: "La Vie Est Belle", marca: "Lancôme", genero: "mujer", momento: "dia", notas: ["Dulce", "Floral", "Gourmand"], destacado: true , imagen: "la-vie-est-belle-lancome.png", ml: "Eau de Parfum · 100 ml" },
   { id: 4,  nombre: "La Belle", marca: "Jean Paul Gaultier", genero: "mujer", momento: "noche", notas: ["Dulce", "Oriental"] , imagen: "la-belle-le-parfum-jeanpg.png", ml: "Le Parfum" },
-  { id: 5,  nombre: "212 Héroes Forever Young", marca: "Carolina Herrera", genero: "hombre", momento: "dia", notas: ["Fresco", "Frutal"] , imagen: "212-heores-forever-young-carolinah.png", ml: "Eau de Parfum · 80 ml" },
+  { id: 5,  nombre: "212 Héroes Forever Young", marca: "Carolina Herrera", genero: "mujer", momento: "dia", notas: ["Fresco", "Frutal"] , imagen: "212-heores-forever-young-carolinah.png", ml: "Eau de Parfum · 80 ml" },
   { id: 6,  nombre: "Eros Pour Femme", marca: "Versace", genero: "mujer", momento: "noche", notas: ["Floral", "Frutal", "Oriental"] , imagen: "eros-pour-femme-versace.png", ml: "Eau de Parfum · 100 ml" },
   { id: 7,  nombre: "Man Extreme", marca: "Bvlgari", genero: "hombre", momento: "noche", notas: ["Amaderado", "Especiado"] , imagen: "bvlgari-man-extreme.png", ml: "Eau de Toilette · 100 ml" },
   { id: 8,  nombre: "Light Blue", marca: "Dolce & Gabbana", genero: "mujer", momento: "dia", notas: ["Cítrico", "Fresco"] , imagen: "dolce-light-blue.png", ml: "Eau de Toilette · 125 ml" },
